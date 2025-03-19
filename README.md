@@ -13,13 +13,13 @@ $$
 \epsilon_0 = |x_{n+1} - x_n|
 $$
 
-Se dice que la respuesta $ x_{n+1} $ es lo suficientemente acertada cuando $ \epsilon_0 < \epsilon $
+Se dice que la respuesta $$ x_{n+1} $$ es lo suficientemente acertada cuando $$ \epsilon_0 < \epsilon $$
 
 Por lo que, si se hace una función que repita la fórmula, la condición delimitadora para un ciclo `While` debería de ser:
 
-$ \epsilon_0 > \epsilon $
+$$ \epsilon_0 > \epsilon $$
 
-**Nota:** Recordemos que $ \epsilon $ debe de ir dada en el planteamiento del problema. De no ser así, se puede asumir con un valor de $ \epsilon = 0.001 $
+**Nota:** Recordemos que $ \epsilon $ debe de ir dada en el planteamiento del problema. De no ser así, se puede asumir con un valor de $$ \epsilon = 0.001 $$
 
 En C#, el código debería de verse así:
 ```csharp
