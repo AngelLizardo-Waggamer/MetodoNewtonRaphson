@@ -1,0 +1,14 @@
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\bin\Debug\net9.0\NewtonRaphson.exe
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\bin\Debug\net9.0\NewtonRaphson.deps.json
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\bin\Debug\net9.0\NewtonRaphson.runtimeconfig.json
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\bin\Debug\net9.0\NewtonRaphson.dll
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\bin\Debug\net9.0\NewtonRaphson.pdb
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\NewtonRaphson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\NewtonRaphson.AssemblyInfoInputs.cache
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\NewtonRaphson.AssemblyInfo.cs
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\NewtonRaphson.csproj.CoreCompileInputs.cache
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\NewtonRaphson.dll
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\refint\NewtonRaphson.dll
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\NewtonRaphson.pdb
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\NewtonRaphson.genruntimeconfig.cache
+C:\Users\aahli\Documents\Repositorios\Locales\Csharp\MetodoNewtonRaphson\NewtonRaphson\obj\Debug\net9.0\ref\NewtonRaphson.dll
